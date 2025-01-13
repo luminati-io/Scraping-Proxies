@@ -6,7 +6,7 @@
 Bright Data is an award winning leading proxy provider that serves over 20,000 customers world wide. Over 100M proxy IPs, best-in-class technology and the ability to target any country, city, carrier & ASN make our proxy services a top choice for developers.
 
 ## Residential Proxies
-Experience seamless scraping with Bright Data's [industry-leading residential proxies](https://brightdata.com/proxy-types/residential-proxies), designed to provide precise targeting, unmatched stability, and rapid response times.
+Experience seamless scraping with Bright Data's [scraping proxies](https://brightdata.com/solutions/scraping-proxy), designed to provide precise targeting, unmatched stability, and rapid response times.
 
 - **72M+ Residential IPs**
 - **Sticky and rotating sessions**
