@@ -1,6 +1,6 @@
 # Bright Data's Scraping Proxies
 
-[![Promo](https://github.com/luminati-io/LinkedIn-Scraper/blob/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://brightdata.com/proxy-types) 
+[![Promo](https://github.com/luminati-io/Rotating-Residential-Proxies/blob/main/50%25%20off%20promo.png)](https://brightdata.com/proxy-types) 
 
 ## About Bright Data
 Bright Data is an award winning leading proxy provider that serves over 20,000 customers world wide. Over 100M proxy IPs, best-in-class technology and the ability to target any country, city, carrier & ASN make our proxy services a top choice for developers.
@@ -29,7 +29,7 @@ Experience seamless scraping with Bright Data's [scraping proxies](https://brigh
   - **339 GB**: $5.88/GB, $1999/month.
   - **Enterprise Plans**: Custom solutions available for large-scale needs.
 
-Sign up and receive a dollar-for-dollar match on your first deposit, up to $500!
+[![Promo](https://github.com/luminati-io/LinkedIn-Scraper/blob/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://brightdata.com/proxy-types) 
 
 ## Getting Started with Residential Proxies
 1. **Start Free Trial**: No credit card required.
